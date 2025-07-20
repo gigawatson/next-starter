@@ -1,3 +1,18 @@
+## Next.js Starter
+```zsh
+bun create next-app . -e https://github.com/gigawatson/next-starter
+```
+
+### Includes
+- TypeScript
+- Biome
+- Prisma
+- Tailwind CSS
+- Zod
+- next-safe-action
+- React Hook Form
+- shadcn/ui
+
 Initialize Prisma:
 ```zsh
 # https://bun.sh/guides/ecosystem/prisma
