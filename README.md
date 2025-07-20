@@ -1,6 +1,6 @@
 ## Next.js Starter
 ```zsh
-bun create next-app . -e https://github.com/gigawatson/next-starter
+bun create next-app . --example https://github.com/gigawatson/next-starter
 ```
 
 ### Includes
